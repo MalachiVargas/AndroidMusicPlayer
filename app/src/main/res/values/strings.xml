@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Final Exam</string>
+
+    <string name="login_fragment">Login</string>
+    <string name="login_hint_email">Email</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="cna_button">Create New Account</string>
+    <!-- Error Validation Strings -->
+    <string name="okButton_dialog">OK</string>
+    <string name="cancelButton_dialog">Cancel</string>
+    <string name="name_valid">Please enter a valid name.</string>
+    <string name="email_valid">Please enter a valid email.</string>
+    <string name="password_valid">Please enter a valid password.</string>
+    <string name="error_dialog_title">Error</string>
+    <string name="blank">""</string>
+
+    <!-- Top App Bar Strings -->
+    <string name="logout_title">Logout</string>
+    <string name="logout_desc">Logout</string>
+    <string name="anc_desc">Add New Contact</string>
+
+    <string name="sign_up_fragment">Create New Account</string>
+    <string name="cna_hint_name">Name</string>
+    <string name="cna_hint_email">Email</string>
+    <string name="cna_hint_password">Password</string>
+    <string name="cna_submit_button">Submit</string>
+
+    <string name="search_fragment">Search</string>
+    <string name="searchBar_hint">Enter Album Name</string>
+    <string name="search_button">Search</string>
+    <string name="cover_desc">Cover Image</string>
+    <string name="likeButton_desc">Like Button</string>
+    <string name="albumTitle_lbl">album.title</string>
+    <string name="artistName_lbl">artist.name</string>
+    <string name="album.nb_tracks">album.nb_tracks</string>
+
+    <string name="likes_fragment">Likes</string>
+
+    <string name="history_fragment">History</string>
+    <string name="clearButton_desc">Clear History</string>
+    <string name="date_label">date goes here</string>
+    <string name="shared_fragment">Shared</string>
+    <string name="sharedBy_lbl">name goes here</string>
+
+
+    <string name="album_fragment">Album</string>
+
+    <string name="bigCover_desc">Big Album Photo Cover</string>
+    <string name="smallCover_desc">Small Album Photo Cover</string>
+    <string name="trackList_Lbl">TrackList</string>
+    <string name="albumNBTracks_lbl">(album.nb_tracks)</string>
+    <string name="trackTitle_lbl">track.title</string>
+    <string name="trackDuration_lbl">track.duration</string>
+    <string name="playButton_desc">Play Button</string>
+    <string name="shareButton_desc">Share Button</string>
+
+    <string name="album_sharing_fragment">Album Sharing</string>
+    <string name="as_title_lbl">Select User to Share Album</string>
+
+
+</resources>
